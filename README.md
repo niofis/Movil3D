@@ -21,6 +21,9 @@ Primivites:
 * Mesh. Used to load 3D object in the [MilkShape3D](http://www.milkshape3d.com/) (ms3d) format.
 
 
+![Screenshot](https://raw.githubusercontent.com/niofis/Movil3D/master/screenshot.png)
+
+
 This project was written back in 2008.
 
 Enrique CR.
