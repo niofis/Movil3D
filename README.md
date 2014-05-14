@@ -1,6 +1,28 @@
 Movil3D
 =======
 
-Very simple software rasterizer for 3D objects.
+Very simple software rasterizer for 3D objects, written in C#. This library renders to a System.Drawing.Graphics object passed as parameter to the 'Pintar' (Draw) method.
 
-2008
+###Build
+
+Simply open the solution in visual studio and build the application, it can be either compiled as a DLL o as a standalone EXE.
+
+###Characteristics
+
+Can render solid objects and wireframes. Has a buuilt-in visualizer that allows zoom and rotation of objects.
+
+Primivites:
+* Cube
+* Torus
+* Sphere
+* Cone
+* Box
+* Cylinder
+* Mesh. Used to load 3D object in the [MilkShape3D](http://www.milkshape3d.com/) (ms3d) format.
+
+
+This project was written back in 2008.
+
+Enrique CR.
+
+
