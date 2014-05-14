@@ -5,7 +5,7 @@ Very simple software rasterizer for 3D objects written in C#. This library rende
 
 ###Build
 
-Simply open the solution in visual studio and build the application, it can be either compiled as a DLL o as a standalone EXE.
+Simply open the solution in visual studio and build the application, it can be either compiled as a DLL o as a standalone EXE. It targets .NET Framework 2.0 but can be upgraded to 4.5 without any modifications.
 
 ###Characteristics
 
