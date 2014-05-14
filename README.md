@@ -1,7 +1,7 @@
 Movil3D
 =======
 
-Very simple software rasterizer for 3D objects, written in C#. This library renders to a System.Drawing.Graphics object passed as parameter to the 'Pintar' (Draw) method.
+Very simple software rasterizer for 3D objects written in C#. This library renders to a System.Drawing.Graphics object passed as parameter to the 'Pintar' (Draw) method.
 
 ###Build
 
